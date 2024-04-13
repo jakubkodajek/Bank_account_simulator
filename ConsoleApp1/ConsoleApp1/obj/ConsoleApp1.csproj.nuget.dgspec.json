@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\OneDrive\\Programování\\C#\\Projects\\Bank Account simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\OneDrive\\Programování\\C#\\Projects\\Bank Account simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\OneDrive\\Programování\\C#\\Projects\\Bank Account simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\jakub\\OneDrive\\Programování\\C#\\Projects\\Bank Account simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\OneDrive\\Programování\\C#\\Projects\\Bank Account simulator\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
