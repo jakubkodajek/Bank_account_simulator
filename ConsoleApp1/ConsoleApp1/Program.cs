@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Welcome to the bank account simulation, enter your name and surname!");
             string userName = Console.ReadLine();
             // Create a object of BankAccount class
-            BankAccount myAccount = new BankAccount("Plus Account", userName, "123456789/0800", "CZ80 9000 0800 8343", 0f, DateTime.Now);
+            BankAccount myAccount = new BankAccount("Plus Account", userName, "123456788/0800", "CZ80 9000 0800 8343", 0f, DateTime.Now);
             // Create a list of payments
             List<payments> paymentsList = new List<payments>();
 

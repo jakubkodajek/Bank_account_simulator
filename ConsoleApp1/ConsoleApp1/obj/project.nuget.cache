@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9aepciy+W7nEraCCF2mjMSJ12GXT/D3T8NVV6uT5STcbfkuMGqBAM7ARyjKQwswDEgU+UTe/rCnRE5jrKRw4Vg==",
+  "dgSpecHash": "r9z1Mg6AvPk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\OneDrive\\Dokumenty\\GitHub\\Bank_account_simulator\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakubkodajek/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/jakubkodajek/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/jakubkodajek/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.12/microsoft.netcore.app.host.osx-arm64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,29 +1,44 @@
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\jakub\OneDrive\Programování\C#\Projects\Bank Account simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\jakub\OneDrive\Dokumenty\GitHub\Bank_account_simulator\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/jakub/OneDrive/Programování/C#/Projects/Bank Account simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/jakub/OneDrive/Dokumenty/GitHub/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jakubkodajek/RiderProjects/Bank_account_simulator/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
